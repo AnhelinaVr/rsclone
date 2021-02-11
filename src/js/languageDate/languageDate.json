@@ -1,0 +1,547 @@
+{
+    "titleForLog": [
+        "Please log in or register",
+        "Пожалуйста, войдите в систему или зарегистрируйтесь",
+        "Bitte melden Sie sich an oder registrieren Sie sich"
+    ],
+    "BookingSuccessAnswer": [
+        "Thanks. You have booked a room forr",
+        "Спасибо. Вы забронировали номер на",
+        "Vielen Dank. Sie haben ein Zimmer für gebucht"
+    ],
+    "placeholderChangePassword": [
+        "New password",
+        "Новый пароль",
+        "Neues Passwort"
+    ],
+    "placeholderConfirmPassword": [
+        "Confirm password",
+        "Подтвердите пароль",
+        "Passwort bestätigen"
+    ],
+    "languages": [
+        "EN",
+        "RU",
+        "DE"
+    ],
+    "logButton": [
+        "Log in",
+        "Войти",
+        "Anmelden"
+    ],
+    "mainTitle": [
+        "PARADISE",
+        "РАЙ",
+        "PARADIES"
+    ],
+    "galleryButton": [
+        "ROOMS",
+        "НОМЕРА",
+        "RÄUME"
+    ],
+    "tabHeader": [
+        "Step",
+        "Шаг",
+        "Schritt"
+    ],
+    "tabcontent1Title": [
+        "Please select a room",
+        "Пожалуйста, выберите номер",
+        "Bitte wählen Sie ein Zimmer"
+    ],
+    "tabcontent2Title": [
+        "Please select a date",
+        "Пожалуйста, выберите дату",
+        "Bitte wählen Sie ein Datum"
+    ],
+    "tabcontent3Title": [
+        "Please click on the button and answer the questions",
+        "Пожалуйста, нажмите на кнопку и ответьте на вопросы",
+        "Bitte klicken Sie auf die Schaltfläche und beantworten Sie die Fragen"
+    ],
+    "buttonNextStep": [
+        "Next",
+        "Далее",
+        "Nächster"
+    ],
+    "buttonPrevStep": [
+        "Back",
+        "Назад",
+        "Zurück"
+    ],
+    "radioButtons": [
+        [
+            "Quade room",
+            "Double room",
+            "Queen room",
+            "Royal room",
+            "King room"
+        ],
+        [
+            "Номер Квартет",
+            "Номер Двойной",
+            "номер Королевы",
+            "номер Царский",
+            "номер Короля"
+        ],
+        [
+            "Quade zimmer",
+            "Doppel zimmer",
+            "Queen Zimmer",
+            "Königliches Zimmer",
+            "King Zimmer"
+        ]
+    ],
+    "langCalendar": [
+        "en-EN",
+        "ru-RU",
+        "de-DE"
+    ],
+    "hotKeysContent": [
+        [
+            "Alt + Z - increase font",
+            "Alt + X - reduce font",
+            "Alt + C - light theme",
+            "Alt + V - dark theme",
+            "Alt + A - previous step",
+            "Alt + S - next step"
+        ],
+        [
+            "Alt + Z - увеличить шрифт",
+            "Alt + X - уменьшить шрифт",
+            "Alt + C - светлая тема",
+            "Alt + V - темная тема",
+            "Alt + A - предыдущий шаг",
+            "Alt + S - следующий шаг"
+        ],
+        [
+            "Alt + E - Schriftart erhöhen",
+            "Alt + Q - Schriftart reduzieren",
+            "Alt + R - Lichtthema",
+            "Alt + T - dunkles Thema",
+            "Alt + A - vorheriger Schritt",
+            "Alt + S - Nächster Schritt"
+        ]
+    ],
+    "modalTitle": [
+        [
+            "List rooms in our hotel",
+            "Список номеров в нашем отеле",
+            "Liste zimmer in unserem hotel"
+        ],
+        [
+            "Confirmation form",
+            "Подтверждающая форма",
+            "Bestätigungs formular"
+        ],
+        [
+            "Hotkeys",
+            "Горячие клавиши",
+            "Hotkeys"
+        ],
+        [
+            "Setting",
+            "Настройки",
+            "Rahmen"
+        ],
+        [
+            "Statistics",
+            "Статистика",
+            "Statistiken"
+        ]
+    ],
+    "confirmFormField": {
+        "name": [
+            "Name",
+            "Имя",
+            "Name"
+        ],
+        "password": [
+            "Password",
+            "Пароль",
+            "Passwort"
+        ],
+        "confirmPassword": [
+            "Confirm password",
+            "Подтвердите пароль",
+            "Bestätige das Passwort"
+        ],
+        "Email": [
+            "Email",
+            "Почта",
+            "Email"
+        ],
+        "button": [
+            "Submit",
+            "Подтвердить",
+            "Einreichen"
+        ],
+        "register": [
+            "Register",
+            "Зарегистрироваться",
+            "Registrieren"
+        ],
+        "forgotPassword": [
+            "Forgot your password?",
+            "Забыли свой пароль",
+            "Passwort vergessen?"
+        ],
+        "notRegister": [
+            "Are you not registered yet?",
+            "Вы еще не зарегистрированы",
+            "Bist du noch nicht registriert?"
+        ]
+    },
+    "description": [
+        "The PARADISE is a luxury hotel secluded on the small island, offering a pristine pool and spa. Known for its exceptional service, it includes a 24-hour concierge, numerous beach and pool attendants, and twice-daily housekeeping, the resort is a favorite among honeymooners and has an impressive number of return clients considering its remote location.",
+        "Рай - это роскошный отель, уединенный на небольшом острове, предлагающий невероятные бассейн и спа. Известный своим исключительным сервисом, он включает в себя круглосуточного консьержа, многочисленный обслуживающий персонал на пляже и у бассейна, а также уборку номеров дважды в день. Курорт пользуется популярностью среди молодоженов и имеет впечатляющее количество постоянных клиентов, учитывая его удаленность.",
+        "Das PARADISE ist ein Luxushotel auf der kleinen Insel und bietet einen makellosen Pool und ein Spa. Das Resort ist für seinen außergewöhnlichen Service bekannt und umfasst einen 24-Stunden-Concierge, zahlreiche Strand- und Poolbetreuer sowie eine zweimal tägliche Reinigung. Es ist bei Hochzeitsreisenden beliebt und hat aufgrund seiner abgelegenen Lage eine beeindruckende Anzahl von Stammkunden."
+    ],
+    "dialogInfo": [
+        [
+            [
+                "Gender",
+                "Age",
+                "Income"
+            ],
+            [
+                "Which option describes you?",
+                "Which age group describes you?",
+                "Which of these describes your income last year?"
+            ],
+            [
+                "Male",
+                "18-30",
+                "$1 - $9 999"
+            ],
+            [
+                "Female",
+                "30-50",
+                "$10 000 - $24 999"
+            ],
+            [
+                "Other",
+                "50+",
+                "$30,000 +"
+            ],
+            [
+                "Test"
+            ],
+            [
+                "Submit"
+            ]
+        ],
+        [
+            [
+                "Пол",
+                "Возраст",
+                "Доход"
+            ],
+            [
+                "Ваш пол?",
+                "Ваш возраст?",
+                "Ваш доход за последний год?"
+            ],
+            [
+                "Мужчина",
+                "18-30",
+                "$1 - $9 999"
+            ],
+            [
+                "Женщина",
+                "30-50",
+                "$10 000 - $24 999"
+            ],
+            [
+                "Другой",
+                "50+",
+                "$30,000 +"
+            ],
+            [
+                "Тест"
+            ],
+            [
+                "Подтвердить"
+            ]
+        ],
+        [
+            [
+                "Paul",
+                "Alter",
+                "Einkommen"
+            ],
+            [
+                "Dein Geschlecht?",
+                "Dein Alter?",
+                "Was war Ihr Einkommen im letzten Jahr?"
+            ],
+            [
+                "Der Mann",
+                "18-30",
+                "$1 - $9 999"
+            ],
+            [
+                "Frau",
+                "30-50",
+                "$10 000 - $24 999"
+            ],
+            [
+                "Andere",
+                "50+",
+                "$30,000 +"
+            ],
+            [
+                "Prüfung"
+            ],
+            [
+                "Bestätigen"
+            ]
+        ]
+    ],
+    "dataRooms": [
+        [
+            {
+                "srcImg": "assets/images/apartments/quad-room.svg",
+                "name": "Quad Room",
+                "price": "120 $",
+                "description": "The Quad Room with 2 set of twin-sized bunk beds is the perfect solution for getting everyone their own bed, even when traveling with friends or family. It comes with warm walnut furnishings. Sleeps up to four adults.",
+                "facilities": [
+                    "18 sq meters",
+                    "Shower cabin",
+                    "2 Set of Twin-Sized Bunk Beds"
+                ]
+            },
+            {
+                "srcImg": "assets/images/apartments/double-room.svg",
+                "name": "Double Room",
+                "price": "100 $",
+                "description": "With astounding views of the surrounding city, these double room combine flexible modern design with tech-friendly features. Sleeps up to two adults.",
+                "facilities": [
+                    "14 sq meters",
+                    "Shower cabin",
+                    "2 Full Beds"
+                ]
+            },
+            {
+                "srcImg": "assets/images/apartments/queen-room.svg",
+                "name": "Queen Room",
+                "price": "160 $",
+                "description": "These queen room is well outfitted for the modern traveler. The flexible design includes thoughtful tech help you make yourself at home when you’re not out exploring. Sleeps up to two adults.",
+                "facilities": [
+                    "20 sq meters",
+                    "Shower cabin",
+                    "1 Queen Bed",
+                    "mini-fridge",
+                    "TV"
+                ]
+            },
+            {
+                "srcImg": "assets/images/apartments/royal-room.svg",
+                "name": "Royal Room",
+                "price": "180 $",
+                "description": "Highlighting busy urban landscape, these high floor queen-bedded rooms look out over the city. Warm walnut furniture, rain showers and handmade porcelain tiles give the room an inviting touch. Sleeps up to two adults.",
+                "facilities": [
+                    "24 sq meters",
+                    "Shower cabin",
+                    "1 Queen Bed",
+                    "TV"
+                ]
+            },
+            {
+                "srcImg": "assets/images/apartments/king-room.svg",
+                "name": "King Room",
+                "price": "200 $",
+                "description": "This one-of a kind hotel room designed by Ihar Interiors. Room features distressed hardwood oak floors and floor-to-ceiling windows with great natural light. Bathroom features bath and amenities. Sleeps up to two adults.",
+                "facilities": [
+                    "30 sq meters",
+                    "Bath",
+                    "1 King Bed",
+                    "mini-fridge"
+                ]
+            }
+        ],
+        [
+            {
+                "srcImg": "assets/images/apartments/quad-room.svg",
+                "name": "Номер Квартет",
+                "price": "120 $",
+                "description": "Четырехместный номер с 2 односпальными двухъярусными кроватями - идеальное решение, чтобы у каждого была отдельная кровать, даже если вы путешествуете с друзьями или семьей. Он обставлен мебелью из орехового дерева в теплых тонах. Вмещает до четырех взрослых.",
+                "facilities": [
+                    "18 кв.м",
+                    "Душевая кабина",
+                    "2 двухярусных кровати"
+                ]
+            },
+            {
+                "srcImg": "assets/images/apartments/double-room.svg",
+                "name": "Номер Двойной",
+                "price": "100 $",
+                "description": "Этот двухместный номер с потрясающим видом на окружающий город сочетает в себе гибкий современный дизайн с техническими удобствами. Вмещает до двух взрослых.",
+                "facilities": [
+                    "14 кв.м",
+                    "Душевая кабина",
+                    "2 полноразмерных кровати"
+                ]
+            },
+            {
+                "srcImg": "assets/images/apartments/queen-room.svg",
+                "name": "номер Королевы",
+                "price": "160 $",
+                "description": "Этот номер с кроватью размера королевы отлично подходит для современного путешественника. Гибкий дизайн включает продуманные технологии, которые помогут вам чувствовать себя как дома, когда вы не на прогулке. Вмещает до двух взрослых.",
+                "facilities": [
+                    "20 кв.м",
+                    "Душевая кабина",
+                    "1 кровать королевы",
+                    "мини-холодильник",
+                    "телевизор"
+                ]
+            },
+            {
+                "srcImg": "assets/images/apartments/royal-room.svg",
+                "name": "номер Царский",
+                "price": "180 $",
+                "description": "Этот номер с кроватью размера королевы на верхнем этаже подчеркивает оживленный городской пейзаж и выходит окнами на город. Теплая мебель из орехового дерева, тропический душ и керамогранит ручной работы придают помещению уют. Вмещает до двух взрослых.",
+                "facilities": [
+                    "24 кв.м",
+                    "Душевая кабина",
+                    "1 кровать королевы",
+                    "Телевизор"
+                ]
+            },
+            {
+                "srcImg": "assets/images/apartments/king-room.svg",
+                "name": "номер Короля",
+                "price": "200 $",
+                "description": "Этот единственный в своем роде гостиничный номер разработан Ihar Interiors. Номер с деревянным полом из состаренного дуба и окнами от пола до потолка с прекрасным естественным освещением. В ванной номере есть ванна и туалетные принадлежности. Вместимость до двух взрослых.",
+                "facilities": [
+                    "30 кв.м",
+                    "Ванна",
+                    "1 кровать короля",
+                    "мини-холодильник"
+                ]
+            }
+        ],
+        [
+            {
+                "srcImg": "assets/images/apartments/quad-room.svg",
+                "name": "Quade zimmer",
+                "price": "120 $",
+                "description": "Das Quad-Zimmer mit 2 Etagenbetten ist die perfekte Lösung, um jedem sein eigenes Bett zu geben, auch wenn er mit Freunden oder der Familie unterwegs ist. Es kommt mit warmen Walnussmöbeln. Schlafmöglichkeiten für bis zu vier Erwachsene.",
+                "facilities": [
+                    "18 quad.m",
+                    "Duschkabine",
+                    "2 Etagenbetten in zwei Größen"
+                ]
+            },
+            {
+                "srcImg": "assets/images/apartments/double-room.svg",
+                "name": "Doppel zimmer",
+                "price": "100 $",
+                "description": "Diese Doppelzimmer bieten einen atemberaubenden Blick auf die umliegende Stadt und kombinieren flexibles modernes Design mit technikfreundlichen Funktionen. Schlafmöglichkeiten für bis zu zwei Erwachsene.",
+                "facilities": [
+                    "14 quad.m",
+                    "Duschkabine",
+                    "2 volle Betten"
+                ]
+            },
+            {
+                "srcImg": "assets/images/apartments/queen-room.svg",
+                "name": "Queen Zimmer",
+                "price": "160 $",
+                "description": "Dieses Queen-Zimmer ist gut für den modernen Reisenden ausgestattet. Das flexible Design umfasst durchdachte technische Hilfe, mit der Sie sich wie zu Hause fühlen, wenn Sie nicht gerade unterwegs sind. Schlafmöglichkeiten für bis zu zwei Erwachsene.",
+                "facilities": [
+                    "20 quad.m",
+                    "Duschkabine",
+                    "1 Queen-Bett",
+                    "minikühlschrank",
+                    "TV"
+                ]
+            },
+            {
+                "srcImg": "assets/images/apartments/royal-room.svg",
+                "name": "Königliches Zimmer",
+                "price": "180 $",
+                "description": "Diese hochrangigen Zimmer mit Queensize-Bett heben die geschäftige Stadtlandschaft hervor und bieten Blick auf die Stadt. Warme Walnussmöbel, Regenduschen und handgefertigte Porzellanfliesen verleihen dem Raum eine einladende Note. Schlafmöglichkeiten für bis zu zwei Erwachsene.",
+                "facilities": [
+                    "24 quad.m",
+                    "Duschkabine",
+                    "1 Queen-Bett",
+                    "TV"
+                ]
+            },
+            {
+                "srcImg": "assets/images/apartments/king-room.svg",
+                "name": "King Zimmer",
+                "price": "200 $",
+                "description": "Dieses einzigartige Hotelzimmer wurde von Ihar Interiors entworfen. Das Zimmer verfügt über Parkettböden aus Eichenholz und raumhohe Fenster mit viel Tageslicht. Das Badezimmer verfügt über eine Badewanne und Annehmlichkeiten. Schlafmöglichkeiten für bis zu zwei Erwachsene.",
+                "facilities": [
+                    "30 quad.m",
+                    "Bad",
+                    "1 Kingsize-Bett",
+                    "minikühlschrank"
+                ]
+            }
+        ]
+    ],
+    "burgerMenu": [
+        [
+            "Booking",
+            "About"
+        ],
+        [
+            "Бронирование",
+            "О нас"
+        ],
+        [
+            "Buchung",
+            "Über"
+        ]
+    ],
+    "settingModal": [
+        {
+            "buttonsContent": [
+                "Change Password",
+                "Delete account",
+                "Log off"
+            ],
+            "dialogButtons": [
+                "No",
+                "Yes"
+            ],
+            "dialogTitle": "Are you sure?"
+        },
+        {
+            "buttonsContent": [
+                "Изменить пароль",
+                "Удалить аккаунт",
+                "Выйти"
+            ],
+            "dialogButtons": [
+                "Нет",
+                "Да"
+            ],
+            "dialogTitle": "Вы уверены?"
+        },
+        {
+            "buttonsContent": [
+                "Ändere das Passwort",
+                "Konto löschen",
+                "Ausloggen"
+            ],
+            "dialogButtons": [
+                "Nicht",
+                "Ja"
+            ],
+            "dialogTitle": "Bist du sicher?"
+        }
+    ],
+    "staticticsModal": [
+        {
+            "staticticsContent": [
+                "Изменить пароль",
+                "Удалить аккаунт",
+                "Выйти"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+// Font
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+// Font properties
+$mainFont: 'Playfair Display',
+serif;
+$paragraphFont: 'Montserrat',
+sans-serif;
+$font-color-primary: #101010;
+$font-size-primary: 10px;
+$font-weight-regular: 400;
+$font-height-normal: 1.4;
+// Footer and header heights
+$header-height: 55px;
+$footer-height: 50px;
+// Screens
+$desktopWidth: 1280px;
+$smDesktopWidth: 1024px;
+$tableWidth: 768px;
+$smTableWidth: 640px;
+$phoneWidth: 480px;
+$smPhoneWidth: 320px;
+// Main color
+$default-color: #ffffff;
+$primary-color: #636871;
+$success-color: #d5b06d;
+$danger-color: #990000;
+$warning-color: #fed330;
+$light-color: #eeeeee;
+$purple-color: #8854d0;
+$disabled-color: #63687169;
+$overlay-color: #27282be6;
+// Neutral Color
+$neutral-primary: #303133;
+$neutral-regular: #606266;
+$neutral-secondary: #909399;
+$neutral-placeholder: #C0C4CC;
+// Border Color
+$border-base: #DCDFE6;
+$border-light: #E4E7ED;
+$border-lighter: #EBEEF5;
+$border-lightex: #F2F6FC;

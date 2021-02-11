@@ -1,0 +1,18 @@
+--light-switch-icon: "🌚";
+  --light-switch-text: "dark mode?";
+  --light-default-color           : #ffffff;
+  --light-primary-color           : #636871;
+  --light-success-color           : #FC633A;
+  --light-light-color             : #eeeeee;
+  --light-disabled-color          : #63687169;
+  --light-overlay-color          : #27282be6;
+
+  /* Dark mode */
+  --dark-switch-icon: "🌝";
+  --dark-switch-text: "light mode?";
+  --dark-default-color           : #636871;
+  --dark-primary-color           : #ffffff;
+  --dark-success-color           : #eeeeee;
+  --dark-light-color             : #FC633A;
+  --dark-disabled-color          : #ffffff69;
+  --dark-overlay-color          : #eeeeeee6;
